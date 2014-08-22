@@ -1,0 +1,25 @@
+{
+  "name": "eddy-malou",
+  "version": "999.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/**.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bloodyowl/eddy-malou.git"
+  },
+  "author": "bloodyowl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bloodyowl/eddy-malou/issues"
+  },
+  "homepage": "https://github.com/bloodyowl/eddy-malou",
+  "devDependencies": {
+    "tape": "^2.14.0"
+  }
+}
